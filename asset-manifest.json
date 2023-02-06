@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NeizmailovaNa/react-hw-components-1/static/css/main.a3e55a93.css",
+    "main.js": "/NeizmailovaNa/react-hw-components-1/static/js/main.db385db4.js",
+    "index.html": "/NeizmailovaNa/react-hw-components-1/index.html",
+    "main.a3e55a93.css.map": "/NeizmailovaNa/react-hw-components-1/static/css/main.a3e55a93.css.map",
+    "main.db385db4.js.map": "/NeizmailovaNa/react-hw-components-1/static/js/main.db385db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e55a93.css",
+    "static/js/main.db385db4.js"
+  ]
+}
