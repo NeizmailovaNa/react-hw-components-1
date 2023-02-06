@@ -1,0 +1,23 @@
+:root {
+    --black-text-color: #000000;
+    --white-text-color: #ffffff;
+    --light-text-color: #eae8e8;
+    --dark-text-color: #545454;
+    --accent-text-color: #ff6b08;
+  
+    --bg: radial-gradient(
+      circle,
+      rgb(2, 0, 36) 0%,
+      rgb(226, 226, 226) 0%,
+      rgba(193, 209, 219, 0.623) 0%,
+      rgb(229, 229, 229) 100%
+    );
+
+    --bg-next: radial-gradient(
+        circle,
+        rgb(2, 0, 36) 0%,
+        rgb(211, 206, 237) 0%,
+        rgba(64, 68, 119, 0.618) 0%,
+        rgb(212, 208, 239) 100%
+      );
+  }

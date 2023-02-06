@@ -1,0 +1,23 @@
+
+.title {
+  font-size: 24px;
+  text-align: center;
+  background: var(--bg);
+  padding: 10px 15px;
+}
+.stat_list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  font-size: 20px;
+}
+.item {
+  display: flex;
+  width: 70px;
+  height: 70px;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  border-radius: 50%;
+}

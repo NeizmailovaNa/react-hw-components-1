@@ -1,0 +1,17 @@
+.transaction_history {
+    border: 1px solid var(--dark-text-color);
+  }
+  .transaction_history th {
+    background: var(--bg);
+    padding: 10px;
+    font: 30px;
+  }
+  .transaction_history td {
+    border: 1px solid var(--dark-text-color);
+    padding: 10px;
+    font-size: 24px;
+  }
+  
+  .transaction_history tr:nth-child(2n) {
+    background: var(--bg);
+  }
