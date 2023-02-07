@@ -1,7 +1,7 @@
 import css from './FriendListItem.module.css';
 import PropTypes from 'prop-types';
 
-export const FriendListItem = ({ id, isOnline, avatar, name }) => {
+export const FriendListItem = ({ isOnline, avatar, name }) => {
   return (
     <li className={css.item}>
       {isOnline ? (
